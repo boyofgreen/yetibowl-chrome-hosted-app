@@ -2,10 +2,8 @@
   "name": "Yeti Bowl The Game",
   "description": "You are the Yeti and you defend your ground from the evil hikers",
   "version": "1",
+  "manifest_version":2,
   "app": {
-    "urls": [
-      "*://yetibowl.azurewebsites.net"
-    ],
     "launch": {
       "web_url": "http://yetibowl.azurewebsites.net/game.html"
     }
